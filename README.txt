@@ -1,3 +1,20 @@
+THIS IS NOT AN OFFICIAL FORK!!
+
+In the interests of giving credit where credit is due, I have (tried to?) create a separate repository to play with, but the commit trail is intact. 
+
+This does NOT mean that past contributors approve or support this! 
+
+I am learning Ruby, Rails and PHP on the fly and desperately want an SA version of OpenAustralia.org.  This may never happen, however I am hoping to create a private version that works for personal use, and the source code is public in case it helps any official efforts... or it may just end up being a borked mess, who knows. 
+
+In any case if I have broken etiquette somewhere please tell me - it probably wasn't intentional!
+
+Best wishes
+
+Alison
+
+---------------------8-<----------------8-<---------------------------
+
+
 Hello everyone,
 
 We're pleased to release the TheyWorkForYou.com source code.  This is the code
